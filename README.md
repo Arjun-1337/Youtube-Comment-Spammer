@@ -24,8 +24,6 @@ This Python script utilizes the YouTube API to search for videos based on a quer
    
 Install the required libraries.
 
-bash
-Copy code
 pip install google-api-python-client google-auth-oauthlib
 Configure GitHub Secrets with your YouTube API key.
 
